@@ -1,0 +1,6 @@
+#hey there
+#this is my info repo
+#I am currently in my 2nd year of btech
+#I am interested in open source and data science 
+#Currently learning git and github 
+#hope this repo finds you well
