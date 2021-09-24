@@ -4,3 +4,9 @@
 #I am interested in open source and data science 
 #Currently learning git and github 
 #hope this repo finds you well
+
+
+#making this changes to in branch and then will merge to main one i guess
+
+#making changes in 3rd branch
+(hope this willl not affect first and 2nd)
